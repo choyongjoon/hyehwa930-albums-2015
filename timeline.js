@@ -37,7 +37,7 @@ document.addEventListener('DOMContentLoaded', function() {
     margin: { axis: 2, item: 2 },
     max: "2015-12-31",
     min: "2015-01-01",
-    orientation: { axis: 'both' },
+    orientation: { axis: 'both', item: 'top' },
     // stack: false,
     template: template,
     timeAxis: {scale: 'day', step: 5},
