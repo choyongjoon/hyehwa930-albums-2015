@@ -19,7 +19,6 @@ Handlebars.registerHelper('imgSrc', function(albumId) {
   var folder1 = Math.floor(albumId/1000000);
   var folder2 = Math.floor((albumId - folder1*1000000)/1000);
   var imgSrc = 'http://musicmeta.phinf.naver.net/album/' + pad3(folder1) + '/' + pad3(folder2) + '/' + albumId + '.jpg?type=r300Fll';
-  console.log(albumId,imgSrc);
   return imgSrc;
 });
 
@@ -35,17 +34,16 @@ document.addEventListener('DOMContentLoaded', function() {
 
   // Configuration for the Timeline
   var options = {
-    groupOrder: 'content',
     margin: { axis: 2, item: 2 },
     max: "2015-12-31",
     min: "2015-01-01",
-    timeAxis: {scale: 'day', step: 5},
-    zoomMax: 2764800000,
-    zoomMin: 2764800000,
-    zoomable: false,
+    orientation: { axis: 'both' },
     // stack: false,
-    // specify a template for the items
-    template: template
+    template: template,
+    timeAxis: {scale: 'day', step: 5},
+    zoomMax: 2700000000,
+    zoomMin: 2700000000,
+    zoomable: false
   };
 
   var genres = ['록', '모던록', '포크', '팝', '댄스&일렉트로닉', '랩&힙합', '알앤비&소울', '재즈&크로스오버'];
@@ -69,39 +67,39 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 });
 
-document.getElementById('1').onclick = function() {
-  timeline.moveTo('2015-01-15');
+document.getElementById('m1').onclick = function() {
+  timeline.moveTo('2015-01-16');
 };
-document.getElementById('2').onclick = function() {
-  timeline.moveTo('2015-02-15');
+document.getElementById('m2').onclick = function() {
+  timeline.moveTo('2015-02-16');
 };
-document.getElementById('3').onclick = function() {
-  timeline.moveTo('2015-03-15');
+document.getElementById('m3').onclick = function() {
+  timeline.moveTo('2015-03-16');
 };
-document.getElementById('4').onclick = function() {
-  timeline.moveTo('2015-04-15');
+document.getElementById('m4').onclick = function() {
+  timeline.moveTo('2015-04-16');
 };
-document.getElementById('5').onclick = function() {
-  timeline.moveTo('2015-05-15');
+document.getElementById('m5').onclick = function() {
+  timeline.moveTo('2015-05-16');
 };
-document.getElementById('6').onclick = function() {
-  timeline.moveTo('2015-06-15');
+document.getElementById('m6').onclick = function() {
+  timeline.moveTo('2015-06-16');
 };
-document.getElementById('7').onclick = function() {
-  timeline.moveTo('2015-07-15');
+document.getElementById('m7').onclick = function() {
+  timeline.moveTo('2015-07-16');
 };
-document.getElementById('8').onclick = function() {
-  timeline.moveTo('2015-08-15');
+document.getElementById('m8').onclick = function() {
+  timeline.moveTo('2015-08-16');
 };
-document.getElementById('9').onclick = function() {
-  timeline.moveTo('2015-09-15');
+document.getElementById('m9').onclick = function() {
+  timeline.moveTo('2015-09-16');
 };
-document.getElementById('10').onclick = function() {
-  timeline.moveTo('2015-10-15');
+document.getElementById('m10').onclick = function() {
+  timeline.moveTo('2015-10-16');
 };
-document.getElementById('11').onclick = function() {
-  timeline.moveTo('2015-11-15');
+document.getElementById('m11').onclick = function() {
+  timeline.moveTo('2015-11-16');
 };
-document.getElementById('12').onclick = function() {
-  timeline.moveTo('2015-12-15');
+document.getElementById('m12').onclick = function() {
+  timeline.moveTo('2015-12-16');
 };

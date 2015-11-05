@@ -1,5 +1,6 @@
 [
   {
+    "top": true,
     "name": "엄마의 편지",
     "albumId": 486752,
     "genre": "팝",
@@ -140,6 +141,7 @@
     "artist": "국카스텐"
   },
   {
+    "top": true,
     "name": "순간의 순간",
     "albumId": 492392,
     "genre": "팝",
@@ -234,7 +236,7 @@
     "name": "다섯 개의 사랑이야기",
     "albumId": 492328,
     "genre": "팝",
-    "start": "2015-02-24",
+    "start": "2015-02-25",
     "artist": "조동희"
   },
   {
@@ -252,6 +254,7 @@
     "artist": "니엘"
   },
   {
+    "top": true,
     "name": "강의 노래",
     "albumId": 493150,
     "genre": "팝",
@@ -441,6 +444,7 @@
     "artist": "퍼스트 에이드"
   },
   {
+    "top": true,
     "name": "18",
     "albumId": 531994,
     "genre": "록",
@@ -686,6 +690,7 @@
     "artist": "Various Artists"
   },
   {
+    "top": true,
     "name": "Kiss My Lips - The 8th Album",
     "albumId": 534478,
     "genre": "댄스&일렉트로닉",
@@ -873,5 +878,646 @@
     "genre": "재즈&크로스오버",
     "start": "2015-05-04",
     "artist": "정성하"
+  },
+  {
+    "top": true,
+    "name": "AUTHENTIC",
+    "albumId": 549969,
+    "genre": "모던록",
+    "start": "2015-06-04",
+    "artist": "바이 바이 배드맨"
+  },
+  {
+    "name": "NO PROBLEM!",
+    "albumId": 550476,
+    "genre": "모던록",
+    "start": "2015-06-08",
+    "artist": "솔루션스"
+  },
+  {
+    "name": "미세매력주의보",
+    "albumId": 549995,
+    "genre": "팝",
+    "start": "2015-06-04",
+    "artist": "빌리어코스티"
+  },
+  {
+    "name": "NO.5",
+    "albumId": 551949,
+    "genre": "댄스&일렉트로닉",
+    "start": "2015-06-15",
+    "artist": "2PM"
+  },
+  {
+    "name": "MY NEW INSTAGRAM : MESURECHIFFON",
+    "albumId": 554089,
+    "genre": "랩&힙합",
+    "start": "2015-06-23",
+    "artist": "천재노창"
+  },
+  {
+    "name": "축의금",
+    "albumId": 553266,
+    "genre": "팝",
+    "start": "2015-06-19",
+    "artist": "덕원"
+  },
+  {
+    "name": "제25회 유재하 음악경연대회",
+    "albumId": 550122,
+    "genre": "팝",
+    "start": "2015-06-05",
+    "artist": "Various Artists"
+  },
+  {
+    "name": "ROCK N RILLS",
+    "albumId": 555129,
+    "genre": "록",
+    "start": "2015-06-26",
+    "artist": "유즈드카세트"
+  },
+  {
+    "name": "Rush On It",
+    "albumId": 554962,
+    "genre": "록",
+    "start": "2015-06-26",
+    "artist": "퀸즈네스트"
+  },
+  {
+    "name": "Heart Attack",
+    "albumId": 553683,
+    "genre": "댄스&일렉트로닉",
+    "start": "2015-06-22",
+    "artist": "AOA"
+  },
+  {
+    "name": "A",
+    "albumId": 549037,
+    "genre": "댄스&일렉트로닉",
+    "start": "2015-06-01",
+    "artist": "BIGBANG"
+  },
+  {
+    "name": "Pink Funky",
+    "albumId": 553409,
+    "genre": "댄스&일렉트로닉",
+    "start": "2015-06-19",
+    "artist": "마마무"
+  },
+  {
+    "name": "NATURAL BORN TEEN TOP",
+    "albumId": 553720,
+    "genre": "댄스&일렉트로닉",
+    "start": "2015-06-22",
+    "artist": "틴 탑"
+  },
+  {
+    "name": "LOVE ME RIGHT - The 2nd Album Repackage",
+    "albumId": 549472,
+    "genre": "댄스&일렉트로닉",
+    "start": "2015-06-03",
+    "artist": "EXO"
+  },
+  {
+    "name": "No Diss",
+    "albumId": 551639,
+    "genre": "랩&힙합",
+    "start": "2015-06-12",
+    "artist": "블랙넛"
+  },
+  {
+    "name": "WALKIN` Vol. 1",
+    "albumId": 553648,
+    "genre": "랩&힙합",
+    "start": "2015-06-20",
+    "artist": "Peejay"
+  },
+  {
+    "name": "버티기",
+    "albumId": 552007,
+    "genre": "랩&힙합",
+    "start": "2015-06-15",
+    "artist": "45RPM"
+  },
+  {
+    "name": "Month of June",
+    "albumId": 552407,
+    "genre": "팝",
+    "start": "2015-06-17",
+    "artist": "맥케이"
+  },
+  {
+    "name": "Feel Free",
+    "albumId": 551389,
+    "genre": "팝",
+    "start": "2015-06-11",
+    "artist": "김필"
+  },
+  {
+    "name": "Tra La La",
+    "albumId": 551402,
+    "genre": "댄스&일렉트로닉",
+    "start": "2015-06-11",
+    "artist": "Risso"
+  },
+  {
+    "name": "별, 불, 밤",
+    "albumId": 549524,
+    "genre": "댄스&일렉트로닉",
+    "start": "2015-06-03",
+    "artist": "We Are The Night"
+  },
+  {
+    "name": "384400 (With FROMM)",
+    "albumId": 555418,
+    "genre": "댄스&일렉트로닉",
+    "start": "2015-06-29",
+    "artist": "메이요"
+  },
+  {
+    "name": "오후",
+    "albumId": 552941,
+    "genre": "모던록",
+    "start": "2015-06-18",
+    "artist": "한솔"
+  },
+  {
+    "name": "청춘",
+    "albumId": 550701,
+    "genre": "팝",
+    "start": "2015-06-09",
+    "artist": "하비누아주"
+  },
+  {
+    "name": "소품집",
+    "albumId": 554017,
+    "genre": "팝",
+    "start": "2015-06-23",
+    "artist": "호소"
+  },
+  {
+    "name": "MIRROR",
+    "albumId": 550765,
+    "genre": "댄스&일렉트로닉",
+    "start": "2015-06-09",
+    "artist": "엠블랙"
+  },
+  {
+    "name": "TOURS THE REMIXES",
+    "albumId": 552393,
+    "genre": "댄스&일렉트로닉",
+    "start": "2015-06-16",
+    "artist": "이디오테잎"
+  },
+  {
+    "top": true,
+    "name": "Reality",
+    "albumId": 559469,
+    "genre": "댄스&일렉트로닉",
+    "start": "2015-07-13",
+    "artist": "인피니트"
+  },
+  {
+    "name": "Big Summer Night",
+    "albumId": 559878,
+    "genre": "록",
+    "start": "2015-07-14",
+    "artist": "세이수미"
+  },
+  {
+    "name": "Los Amigos 2nd Vamos",
+    "albumId": 563184,
+    "genre": "재즈&크로스오버",
+    "start": "2015-07-23",
+    "artist": "로스 아미고스"
+  },
+  {
+    "name": "여자친구 2nd Mini Album `Flower Bud`",
+    "albumId": 563176,
+    "genre": "댄스&일렉트로닉",
+    "start": "2015-07-23",
+    "artist": "여자친구"
+  },
+  {
+    "name": "썬파워",
+    "albumId": 557556,
+    "genre": "모던록",
+    "start": "2015-07-07",
+    "artist": "구남과여라이딩스텔라"
+  },
+  {
+    "name": "SYX",
+    "albumId": 558291,
+    "genre": "모던록",
+    "start": "2015-07-09",
+    "artist": "이승열"
+  },
+  {
+    "name": "The Song Of Songs",
+    "albumId": 558165,
+    "genre": "팝",
+    "start": "2015-07-09",
+    "artist": "타루"
+  },
+  {
+    "name": "시원 시원 여름비",
+    "albumId": 563508,
+    "genre": "팝",
+    "start": "2015-07-27",
+    "artist": "우쿨렐레 피크닉"
+  },
+  {
+    "name": "(HUMAN COMPLEX) Integrated",
+    "albumId": 556694,
+    "genre": "록",
+    "start": "2015-07-03",
+    "artist": "김사랑"
+  },
+  {
+    "name": "등목",
+    "albumId": 557975,
+    "genre": "모던록",
+    "start": "2015-07-09",
+    "artist": "후추스"
+  },
+  {
+    "name": "문학소년",
+    "albumId": 562047,
+    "genre": "포크",
+    "start": "2015-07-21",
+    "artist": "9"
+  },
+  {
+    "name": "RESPECT",
+    "albumId": 559991,
+    "genre": "랩&힙합",
+    "start": "2015-07-14",
+    "artist": "로꼬"
+  },
+  {
+    "name": "The Lake In The City",
+    "albumId": 555971,
+    "genre": "모던록",
+    "start": "2015-07-01",
+    "artist": "레이크"
+  },
+  {
+    "name": "Vikini Party",
+    "albumId": 555880,
+    "genre": "모던록",
+    "start": "2015-07-01",
+    "artist": "블루아일리즈 "
+  },
+  {
+    "name": "SQ (We Don`t Need No EQ IQ)",
+    "albumId": 559813,
+    "genre": "록",
+    "start": "2015-07-14",
+    "artist": "술탄 오브 더 디스코"
+  },
+  {
+    "name": "사랑가",
+    "albumId": 564733,
+    "genre": "록",
+    "start": "2015-07-29",
+    "artist": "Various Artists"
+  },
+  {
+    "name": "Brand New Day",
+    "albumId": 559279,
+    "genre": "락",
+    "start": "2015-07-13",
+    "artist": "뷰렛"
+  },
+  {
+    "name": "919",
+    "albumId": 556723,
+    "genre": "록",
+    "start": "2015-07-03",
+    "artist": "Boys In The Kitchen"
+  },
+  {
+    "name": "Polyverse",
+    "albumId": 562019,
+    "genre": "록",
+    "start": "2015-07-21",
+    "artist": "슈가도넛"
+  },
+  {
+    "name": "2-3",
+    "albumId": 563626,
+    "genre": "알앤비&소울",
+    "start": "2015-07-24",
+    "artist": "프라이머리"
+  },
+  {
+    "name": "너를 보는 난 여름 (Love Letters)",
+    "albumId": 561296,
+    "genre": "팝",
+    "start": "2015-07-17",
+    "artist": "루싸이트 토끼"
+  },
+  {
+    "name": "떨려요",
+    "albumId": 561715,
+    "genre": "댄스&일렉트로닉",
+    "start": "2015-07-20",
+    "artist": "스텔라"
+  },
+  {
+    "top": true,
+    "name": "파리의 숨결",
+    "albumId": 571671,
+    "genre": "재즈&크로스오버",
+    "start": "2015-08-13",
+    "artist": "살롱 드 오수경"
+  },
+  {
+    "name": "TEMPTATION",
+    "albumId": 570259,
+    "genre": "재즈&크로스오버",
+    "start": "2015-08-12",
+    "artist": "웅산"
+  },
+  {
+    "name": "새삼스레 들이켜본 무중력 사슴의 다섯가지 시각",
+    "albumId": 576151,
+    "genre": "모던록",
+    "start": "2015-08-21",
+    "artist": "실리카겔"
+  },
+  {
+    "name": "여자",
+    "albumId": 579920,
+    "genre": "랩&힙합",
+    "start": "2015-08-31",
+    "artist": "버벌진트, 산체스"
+  },
+  {
+    "name": "REBOOT",
+    "albumId": 565961,
+    "genre": "댄스&일렉트로닉",
+    "start": "2015-08-03",
+    "artist": "원더걸스"
+  },
+  {
+    "name": "3 Little Wacks – YOUNG,GIFTED&WACK 3rd Anniversary Compilation",
+    "albumId": 568049,
+    "genre": "댄스&일렉트로닉",
+    "start": "2015-08-10",
+    "artist": "Various Artists"
+  },
+  {
+    "name": "West Coast Drive",
+    "albumId": 570588,
+    "genre": "재즈&크로스오버",
+    "start": "2015-08-12",
+    "artist": "재인"
+  },
+  {
+    "name": "연천, 걷게 한다",
+    "albumId": 575374,
+    "genre": "댄스&일렉트로닉",
+    "start": "2015-08-21",
+    "artist": "레인보우99"
+  },
+  {
+    "name": "Walking On Empty",
+    "albumId": 567203,
+    "genre": "록",
+    "start": "2015-08-06",
+    "artist": "갤럭시 익스프레스"
+  },
+  {
+    "name": "THE VOICE",
+    "albumId": 575081,
+    "genre": "팝",
+    "start": "2015-08-19",
+    "artist": "SG워너비"
+  },
+  {
+    "name": "달리자 여름밤 2",
+    "albumId": 568012,
+    "genre": "포크",
+    "start": "2015-08-10",
+    "artist": "재주소년"
+  },
+  {
+    "name": "Season 2 `여름`",
+    "albumId": 571614,
+    "genre": "팝",
+    "start": "2015-08-13",
+    "artist": "더필름"
+  },
+  {
+    "name": "수상한 커튼의 일년 #08 of 2015 : 늦 여름밤",
+    "albumId": 579961,
+    "genre": "포크",
+    "start": "2015-08-31",
+    "artist": "수상한 커튼"
+  },
+  {
+    "name": "甲中甲 (갑중갑)",
+    "albumId": 567215,
+    "genre": "랩&힙합",
+    "start": "2015-08-06",
+    "artist": "배치기"
+  },
+  {
+    "name": "BestDriver",
+    "albumId": 577052,
+    "genre": "랩&힙합",
+    "start": "2015-08-25",
+    "artist": "행주"
+  },
+  {
+    "name": "My Number",
+    "albumId": 565892,
+    "genre": "랩&힙합",
+    "start": "2015-08-03",
+    "artist": "치타"
+  },
+  {
+    "name": "₩ & ONLY",
+    "albumId": 571264,
+    "genre": "랩&힙합",
+    "start": "2015-08-21",
+    "artist": "Simon Dominic"
+  },
+  {
+    "name": "The Anecdote",
+    "albumId": 577707,
+    "genre": "랩&힙합",
+    "start": "2015-08-27",
+    "artist": "E SENS"
+  },
+  {
+    "name": "자전거 여행",
+    "albumId": 575216,
+    "genre": "팝",
+    "start": "2015-08-19",
+    "artist": "리얼스멜"
+  },
+  {
+    "name": "나빠나빠",
+    "albumId": 577740,
+    "genre": "포크",
+    "start": "2015-08-27",
+    "artist": "최낙타"
+  },
+  {
+    "name": "촉촉",
+    "albumId": 578590,
+    "genre": "모던록",
+    "start": "2015-08-28",
+    "artist": "피터팬 컴플렉스"
+  },
+  {
+    "name": "myB 1st Single 심장어택 (MY OH MY)",
+    "albumId": 576881,
+    "genre": "댄스&일렉트로닉",
+    "start": "2015-08-25",
+    "artist": "마이비"
+  },
+  {
+    "top": true,
+    "name": "LAND",
+    "albumId": 585269,
+    "genre": "록",
+    "start": "2015-09-22",
+    "artist": "라이프 앤 타임"
+  },
+  {
+    "name": "Just Be Lazy",
+    "albumId": 580116,
+    "genre": "록",
+    "start": "2015-09-01",
+    "artist": "레이지 본"
+  },
+  {
+    "name": "Flowing",
+    "albumId": 584386,
+    "genre": "재즈&크로스오버",
+    "start": "2015-09-17",
+    "artist": "나희경"
+  },
+  {
+    "name": "세 번째 계절",
+    "albumId": 576383,
+    "genre": "팝",
+    "start": "2015-09-01",
+    "artist": "가을방학"
+  },
+  {
+    "name": "세계관 (世界觀)",
+    "albumId": 581781,
+    "genre": "모던록",
+    "start": "2015-09-08",
+    "artist": "해일"
+  },
+  {
+    "name": "JAZZ MASTER",
+    "albumId": 580362,
+    "genre": "록",
+    "start": "2015-09-02",
+    "artist": "더 베거스"
+  },
+  {
+    "name": "whoami",
+    "albumId": 583792,
+    "genre": "록",
+    "start": "2015-09-15",
+    "artist": "iamnot"
+  },
+  {
+    "name": "The Red - The 1st Album",
+    "albumId": 582455,
+    "genre": "댄스&일렉트로닉",
+    "start": "2015-09-09",
+    "artist": "레드벨벳"
+  },
+  {
+    "name": "The Day",
+    "albumId": 581568,
+    "genre": "댄스&일렉트로닉",
+    "start": "2015-09-07",
+    "artist": "DAY6"
+  },
+  {
+    "name": "옷장정리",
+    "albumId": 581162,
+    "genre": "팝",
+    "start": "2015-09-04",
+    "artist": "이한철"
+  },
+  {
+    "name": "통근버스",
+    "albumId": 582331,
+    "genre": "포크",
+    "start": "2015-09-09",
+    "artist": "9"
+  },
+  {
+    "name": "#DearMuse #201510A #PinkRibbon",
+    "albumId": 586583,
+    "genre": "팝",
+    "start": "2015-09-30",
+    "artist": "심규선"
+  },
+  {
+    "name": "뒷모습",
+    "albumId": 583790,
+    "genre": "팝",
+    "start": "2015-09-15",
+    "artist": "스텔라장"
+  },
+  {
+    "name": "실례했습니다",
+    "albumId": 582285,
+    "genre": "모던록",
+    "start": "2015-09-10",
+    "artist": "코가손"
+  },
+  {
+    "name": "소음의 왕",
+    "albumId": 586359,
+    "genre": "록",
+    "start": "2015-09-30",
+    "artist": "전자양"
+  },
+  {
+    "name": "Slow Dance",
+    "albumId": 584226,
+    "genre": "팝",
+    "start": "2015-09-17",
+    "artist": "한희정"
+  },
+  {
+    "name": "꿈꾸는 아이들",
+    "albumId": 580796,
+    "genre": "팝",
+    "start": "2015-09-03",
+    "artist": "주윤하"
+  },
+  {
+    "name": "Hood",
+    "albumId": 581609,
+    "genre": "랩&힙합",
+    "start": "2015-09-05",
+    "artist": "타블로, Joey Bada$$"
+  },
+  {
+    "name": "2002",
+    "albumId": 585076,
+    "genre": "랩&힙합",
+    "start": "2015-09-21",
+    "artist": "Gary"
+  },
+  {
+    "name": "미완의 곡",
+    "albumId": 581437,
+    "genre": "모던록",
+    "start": "2015-09-07",
+    "artist": "도재명"
   }
 ]

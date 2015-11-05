@@ -1,15 +1,19 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-    <meta charset="utf-8">
-    <title>2015 음악 모음 | 혜화동 9시반</title>
+  <meta charset="utf-8">
+  <title>2015 음악 모음 | 혜화동 9시반</title>
 
   <!-- load handlebars for templating, and create a template -->
   <script src="lib/handlebars-v4.0.4.js"></script>
   <script id="item-template" type="text/x-handlebars-template">
+    {{#if top}}
+      <img class="img-album" src="{{imgSrc albumId}}" width="120" height="120" alt="{{name}}">
+    {{else}}
       <img class="img-album" src="{{imgSrc albumId}}" width="75" height="75" alt="{{name}}">
-      <h5 class="album-name">{{name}}</h5>
-      <h5 class="artist-name">{{artist}}</h5>
+    {{/if}}
+    <h5 class="album-name">{{name}}</h5>
+    <h5 class="artist-name">{{artist}}</h5>
   </script>
 
   <script src="lib/vis.js"></script>
@@ -73,21 +77,18 @@
 
 </head>
 <body>
-<h2 style="max-width: 600px;">
-혜화동 9시반의 2015 음악 모음
-</h2>
-<button type="button" id="1" class="btn-link">1월</button>
-<button type="button" id="2" class="btn-link">2월</button>
-<button type="button" id="3" class="btn-link">3월</button>
-<button type="button" id="4" class="btn-link">4월</button>
-<button type="button" id="5" class="btn-link">5월</button>
-<button type="button" id="6" class="btn-link">6월</button>
-<button type="button" id="7" class="btn-link">7월</button>
-<button type="button" id="8" class="btn-link">8월</button>
-<button type="button" id="9" class="btn-link">9월</button>
-<button type="button" id="10" class="btn-link">10월</button>
-<button type="button" id="11" class="btn-link">11월</button>
-<button type="button" id="12" class="btn-link">12월</button>
+<button type="button" id="m1" class="btn-link">1</button>
+<button type="button" id="m2" class="btn-link">2</button>
+<button type="button" id="m3" class="btn-link">3</button>
+<button type="button" id="m4" class="btn-link">4</button>
+<button type="button" id="m5" class="btn-link">5</button>
+<button type="button" id="m6" class="btn-link">6</button>
+<button type="button" id="m7" class="btn-link">7</button>
+<button type="button" id="m8" class="btn-link">8</button>
+<button type="button" id="m9" class="btn-link">9</button>
+<button type="button" id="m10" class="btn-link">10</button>
+<button type="button" id="m11" class="btn-link">11</button>
+<button type="button" id="m12" class="btn-link">12</button>
 <div id="visualization">
 </div>
 <script src="timeline.js"></script>
