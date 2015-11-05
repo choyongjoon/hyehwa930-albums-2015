@@ -58,9 +58,7 @@ document.addEventListener('DOMContentLoaded', function() {
       e.group = genres.indexOf(e.genre);
       return e;
     });
-    console.log(albums[0]);
     var items = new vis.DataSet(albums);
-    console.log(items);
 
     // Create a Timeline
     var timeline = new vis.Timeline(container, items, options);
