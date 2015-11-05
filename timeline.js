@@ -23,6 +23,8 @@ Handlebars.registerHelper('imgSrc', function(albumId) {
   return imgSrc;
 });
 
+var timeline;
+
 document.addEventListener('DOMContentLoaded', function() {
   // create a handlebars template
   var source   = document.getElementById('item-template').innerHTML;
@@ -34,11 +36,12 @@ document.addEventListener('DOMContentLoaded', function() {
   // Configuration for the Timeline
   var options = {
     groupOrder: 'content',
-    // maxHeight: 700,
+    margin: { axis: 2, item: 2 },
     max: "2015-12-31",
     min: "2015-01-01",
-    zoomMax: 3456000000,
-    zoomMin: 3456000000,
+    timeAxis: {scale: 'day', step: 5},
+    zoomMax: 2764800000,
+    zoomMin: 2764800000,
     zoomable: false,
     // stack: false,
     // specify a template for the items
@@ -61,7 +64,44 @@ document.addEventListener('DOMContentLoaded', function() {
     var items = new vis.DataSet(albums);
 
     // Create a Timeline
-    var timeline = new vis.Timeline(container, items, options);
+    timeline = new vis.Timeline(container, items, options);
     timeline.setGroups(groups);
   });
 });
+
+document.getElementById('1').onclick = function() {
+  timeline.moveTo('2015-01-15');
+};
+document.getElementById('2').onclick = function() {
+  timeline.moveTo('2015-02-15');
+};
+document.getElementById('3').onclick = function() {
+  timeline.moveTo('2015-03-15');
+};
+document.getElementById('4').onclick = function() {
+  timeline.moveTo('2015-04-15');
+};
+document.getElementById('5').onclick = function() {
+  timeline.moveTo('2015-05-15');
+};
+document.getElementById('6').onclick = function() {
+  timeline.moveTo('2015-06-15');
+};
+document.getElementById('7').onclick = function() {
+  timeline.moveTo('2015-07-15');
+};
+document.getElementById('8').onclick = function() {
+  timeline.moveTo('2015-08-15');
+};
+document.getElementById('9').onclick = function() {
+  timeline.moveTo('2015-09-15');
+};
+document.getElementById('10').onclick = function() {
+  timeline.moveTo('2015-10-15');
+};
+document.getElementById('11').onclick = function() {
+  timeline.moveTo('2015-11-15');
+};
+document.getElementById('12').onclick = function() {
+  timeline.moveTo('2015-12-15');
+};
