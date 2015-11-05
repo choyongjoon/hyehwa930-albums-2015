@@ -1,0 +1,80 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>2015 음악 모음 | 혜화동 9시반</title>
+
+  <!-- load handlebars for templating, and create a template -->
+  <script src="lib/handlebars-v4.0.4.js"></script>
+  <script id="item-template" type="text/x-handlebars-template">
+      <img class="img-album" src="{{imgSrc albumId}}" width="60" height="60" alt="{{name}}">
+      <h5 class="album-name">{{name}}</h5>
+      <h5 class="artist-name">{{artist}}</h5>
+  </script>
+
+  <script src="lib/vis.min.js"></script>
+  <link href="lib/vis.min.css" rel="stylesheet" type="text/css" />
+
+  <style type="text/css">
+    body, html {
+      background-color: #F8F8F9;
+      font-family: sans-serif;
+      font-size: 14pt;
+    }
+
+    .vis-item {
+      border-color: #BBB;
+      border-width: 0;
+      background-color: transparent;
+    }
+
+    .vis-item .vis-item-content {
+      padding: 5px 5px 0 5px;
+    }
+
+    #visualization {
+      position: relative;
+      overflow: hidden;
+    }
+
+    .logo {
+      position: absolute;
+      right: 10px;
+      top: 10px;
+    }
+    .logo img {
+      width: 120px;
+    }
+
+    .img-album {
+      box-shadow: 0px 3px 7px #BBB;
+    }
+
+    .album-name, .artist-name {
+      margin: 0;
+      overflow: hidden;
+      font-weight: bold;
+      text-align: left;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      max-width: 100px;
+    }
+    .artist-name {
+      color: #777;
+      font-weight: normal;
+    }
+
+  </style>
+
+</head>
+<body>
+<p style="max-width: 600px;">
+혜화동 9시반의 2015 음악 모음
+</p>
+
+<div id="visualization">
+  <div class="logo"><img src="https://dl.dropboxusercontent.com/u/33827292/hyehwa930_feed/hyehwa930_1400.png"></div>
+</div>
+<script src="timeline.js"></script>
+</body>
+</html>
